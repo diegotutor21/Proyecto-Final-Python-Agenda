@@ -1,5 +1,3 @@
-# Proyecto-Final-Python-Agenda
-Aplicación de Agenda de Contactos en Python con Tkinter y SQLite (Proyecto Final del curso de Python).
 # 📒 Agenda de Contactos en Python
 
 Aplicación de Agenda de Contactos desarrollada con **Python**, **Tkinter** y **SQLite**.  
