@@ -1,7 +1,7 @@
 # 📒 Agenda de Contactos en Python
 
 Aplicación de Agenda de Contactos desarrollada con **Python**, **Tkinter** y **SQLite**.  
-Proyecto final aprobado del *Curso Introductorio de Python*.
+Proyecto final aprobado del *Curso Primeros Pasos en Programación con Python*.
 
 ---
 
@@ -89,5 +89,4 @@ El proyecto incluye una base de datos (contactos.db) con contactos de ejemplo pa
 
 ## 🧑‍💻 Autor
 Diego Tutor
-Proyecto final aprobado – Curso Primeros Pasos en
-Programación con Python (2025)
+Proyecto final aprobado – *Curso Primeros Pasos en Programación con Python* (2025)
