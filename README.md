@@ -89,5 +89,5 @@ El proyecto incluye una base de datos (contactos.db) con contactos de ejemplo pa
 
 ## 🧑‍💻 Autor
 Diego Tutor
-Proyecto final aprobado – Curso Introductorio de Python (2025)
-📫 benjatutor12@gmail.com
+Proyecto final aprobado – Curso Primeros Pasos en
+Programación con Python (2025)
